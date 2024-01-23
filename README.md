@@ -110,7 +110,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; align-items: center;">
-      <a href="mailto:senior.dev.software@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">senior.dev.software@gmail.com</b>
+      <a href="mailto:tylerscottminegar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">tylerscottminegar@gmail.com</b>
     </div>
   </div>
 <div>
